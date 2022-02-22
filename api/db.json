@@ -1,0 +1,27 @@
+{
+  "streams": [
+    {
+      "title": "Jijo created this",
+      "description": "Testing again",
+      "userId": "110209890048339287413",
+      "id": 4
+    },
+    {
+      "title": "Programmatic Navigation",
+      "description": "Route me after submitting!",
+      "userId": "110209890048339287413",
+      "id": 6
+    },
+    {
+      "title": "Me and the Buys",
+      "description": "Kishash kwa bash",
+      "id": 7
+    },
+    {
+      "title": "CRUD-Redux-React",
+      "description": "A basic CRUD Streaming app utilizing React and Redux",
+      "userId": "110209890048339287413",
+      "id": 8
+    }
+  ]
+}
